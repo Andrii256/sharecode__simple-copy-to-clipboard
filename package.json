@@ -1,6 +1,6 @@
 {
   "name": "simple-copy-to-clipboard",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "0.7kb, old browsers support, just run 'copy('your awesome text')'. It will return true if copied and false if failed",
   "main": "index.js",
   "scripts": {

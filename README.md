@@ -1,5 +1,8 @@
 # Getting started
 1. install package
+```bash
+npm i simple-copy-to-clipboard
+```
 2. import function `copy` in your code. For example
 ```js
 import copy from 'simple-copy-to-clipboard';

@@ -1,0 +1,27 @@
+{
+  "name": "simple-copy-to-clipboard",
+  "version": "1.0.0",
+  "description": "0.7kb, old browsers support, just run 'copy('your awesome text')'. It will return true if copied and false if failed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrii256/my-npm-packages__simple-copy-to-clipboard.git"
+  },
+  "keywords": [
+    "clipboard",
+    "copy",
+    "to",
+    "clipboard",
+    "copy",
+    "lightweight"
+  ],
+  "author": "idk, I find it in internet and wat insert it like node-module",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andrii256/my-npm-packages__simple-copy-to-clipboard/issues"
+  },
+  "homepage": "https://github.com/Andrii256/my-npm-packages__simple-copy-to-clipboard#readme"
+}

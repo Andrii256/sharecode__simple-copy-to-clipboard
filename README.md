@@ -12,7 +12,7 @@ copy('your awesome text');
 5. Enjoy :)
 
 # Package size and code
-Size is 675kb
+index.js size is 0.642 kb
 <br>
 I download it from internet and didnt want paste it manually. I like use stuff like this via node-modules.
 
